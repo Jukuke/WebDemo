@@ -1,0 +1,3 @@
+﻿Aja seuraava komento Package Manager Consolessa (PMC):
+
+Scaffold-DbContext "Server=matka-pc;Database=Northwind;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
